@@ -11,7 +11,7 @@ coretest.setup({ incomplete_rpc_coverage: 'show' });
 // ---------------------------------------
 
 //JSON SCHEMA 
-require('./test_schema_keywords');
+/*require('./test_schema_keywords');
 
 // UTILS
 require('./test_linked_list');
@@ -98,4 +98,4 @@ require('./test_cloud_utils');
 // require('./test_postgres_upgrade'); // TODO currently working with mongo -> once changing to postgres - need to uncomment  
 
 // Lifecycle
-require('./test_lifecycle');
+require('./test_lifecycle');*/
